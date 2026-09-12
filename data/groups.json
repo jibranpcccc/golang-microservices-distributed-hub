@@ -308,7 +308,7 @@
     "category": "Infrastructure & SRE",
     "memberCount": "78,000+ members",
     "description": "Dedicated channels for Terraform, Kubernetes manifest automation, and automated GitOps deployments.",
-    "joinUrl": "https://discord.gg/devops",
+    "joinUrl": "https://discord.gg/devcord",
     "tags": [
       "devops",
       "sre",
@@ -335,12 +335,12 @@
   },
   {
     "id": "go-microservices-distributed-architecture-hub-discord-21",
-    "title": "Confluent Kafka Discord",
-    "platform": "Discord",
+    "title": "r/apachekafka Distributed Streaming Guild",
+    "platform": "Reddit",
     "category": "Event Driven Tech",
     "memberCount": "22,000+ members",
     "description": "Real-time streaming architectures, event sourcing best practices, and Kafka connector engineering.",
-    "joinUrl": "https://discord.gg/confluent",
+    "joinUrl": "https://www.reddit.com/r/apachekafka/",
     "tags": [
       "kafka",
       "streaming",

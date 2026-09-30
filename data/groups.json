@@ -1,5 +1,24 @@
 [
   {
+    "id": "golang-microservices-distributed-hub-telegram-20260930-1",
+    "title": "Web Developers Network",
+    "platform": "Telegram",
+    "category": "Web Development",
+    "memberCount": "64,000+ members",
+    "description": "Public channel providing updates on frontend, backend, browser standards, and dev tooling.",
+    "joinUrl": "https://t.me/webdev_hub",
+    "tags": [
+      "webdev",
+      "frontend",
+      "telegram",
+      "tooling"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "golang-microservices-distributed-hub-discord-20260929-1",
     "title": "Reactiflux Discord Community",
     "platform": "Discord",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {

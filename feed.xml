@@ -4,10 +4,17 @@
     <title>Go Microservices &amp; Distributed Architecture Hub</title>
     <link>https://golang-microservices-distributed-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:03:35 GMT</lastBuildDate>
     <atom:link href="https://golang-microservices-distributed-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#golang-microservices-distributed-hub-forum-20261015-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:03:35 GMT</pubDate>
+      <description>Newly verified community added to Go Microservices &amp; Distributed Architecture Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#golang-microservices-distributed-hub-forum-20261015-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/golang-microservices-distributed-hub/#golang-microservices-distributed-hub-discord-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
       <description>Newly verified community added to Golang Microservices Distributed Hub: The premier community Discord for Go programmers, distributed microservices, gRPC streaming, goroutine concurrency, and Kubernetes controllers.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
-      <link>https://t.me/techcrunch</link>
-      <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#golang-microservices-distributed-hub-telegram-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:03:12 GMT</pubDate>
-      <description>Newly verified community added to Go Microservices &amp; Distributed Architecture Hub: Breaking technology news, startup funding rounds, Big Tech earnings, and Silicon Valley analysis.</description>
     </item>
   </channel>
 </rss>

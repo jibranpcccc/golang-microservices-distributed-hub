@@ -4,10 +4,17 @@
     <title>Go Microservices &amp; Distributed Architecture Hub</title>
     <link>https://golang-microservices-distributed-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:24:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:07:01 GMT</lastBuildDate>
     <atom:link href="https://golang-microservices-distributed-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: r/softwarearchitecture High Scale (Reddit)</title>
+      <link>https://www.reddit.com/r/softwarearchitecture/</link>
+      <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#go-microservices-distributed-architecture-hub-reddit-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:07:01 GMT</pubDate>
+      <description>Newly verified community added to Go Microservices &amp; Distributed Architecture Hub: Architectural principles, domain-driven design (DDD), event sourcing, and high-throughput microservices.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/golang Gophers Community (Reddit)</title>
       <link>https://www.reddit.com/r/golang/</link>
       <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#go-microservices-distributed-architecture-hub-reddit-1-2026-11-18</guid>
@@ -173,13 +180,6 @@
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#golang-microservices-distributed-hub-forum-20261015-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:04:50 GMT</pubDate>
-      <description>Newly verified community added to Go Microservices &amp; Distributed Architecture Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://golang-microservices-distributed-hub.netlify.app/#golang-microservices-distributed-hub-forum-20261015-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:03:28 GMT</pubDate>
       <description>Newly verified community added to Go Microservices &amp; Distributed Architecture Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>

@@ -1,5 +1,24 @@
 [
   {
+    "id": "go-microservices-distributed-architecture-hub-reddit-2",
+    "title": "r/softwarearchitecture High Scale",
+    "platform": "Reddit",
+    "category": "Software Architecture",
+    "memberCount": "95,000+ members",
+    "description": "Architectural principles, domain-driven design (DDD), event sourcing, and high-throughput microservices.",
+    "joinUrl": "https://www.reddit.com/r/softwarearchitecture/",
+    "tags": [
+      "architecture",
+      "microservices",
+      "ddd",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "go-microservices-distributed-architecture-hub-reddit-1",
     "title": "r/golang Gophers Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -529,24 +548,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "go-microservices-distributed-architecture-hub-reddit-2",
-    "title": "r/softwarearchitecture High Scale",
-    "platform": "Reddit",
-    "category": "Software Architecture",
-    "memberCount": "95,000+ members",
-    "description": "Architectural principles, domain-driven design (DDD), event sourcing, and high-throughput microservices.",
-    "joinUrl": "https://www.reddit.com/r/softwarearchitecture/",
-    "tags": [
-      "architecture",
-      "microservices",
-      "ddd",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "go-microservices-distributed-architecture-hub-reddit-3",

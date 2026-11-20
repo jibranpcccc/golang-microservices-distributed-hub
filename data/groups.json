@@ -1,5 +1,24 @@
 [
   {
+    "id": "go-microservices-distributed-architecture-hub-reddit-3",
+    "title": "r/microservices Distributed Systems",
+    "platform": "Reddit",
+    "category": "Microservice Design",
+    "memberCount": "42,000+ members",
+    "description": "Service-to-service communication, distributed tracing, API gateways, and saga pattern transactions.",
+    "joinUrl": "https://www.reddit.com/r/microservices/",
+    "tags": [
+      "microservices",
+      "distributed",
+      "apis",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-20"
+  },
+  {
     "id": "go-microservices-distributed-architecture-hub-reddit-2",
     "title": "r/softwarearchitecture High Scale",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-19"
   },
   {
@@ -548,24 +567,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "go-microservices-distributed-architecture-hub-reddit-3",
-    "title": "r/microservices Distributed Systems",
-    "platform": "Reddit",
-    "category": "Microservice Design",
-    "memberCount": "42,000+ members",
-    "description": "Service-to-service communication, distributed tracing, API gateways, and saga pattern transactions.",
-    "joinUrl": "https://www.reddit.com/r/microservices/",
-    "tags": [
-      "microservices",
-      "distributed",
-      "apis",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "go-microservices-distributed-architecture-hub-reddit-4",

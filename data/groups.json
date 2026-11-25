@@ -1,5 +1,24 @@
 [
   {
+    "id": "go-microservices-distributed-architecture-hub-reddit-8",
+    "title": "r/grpc RPC Protocols",
+    "platform": "Reddit",
+    "category": "gRPC & Protocol Buffers",
+    "memberCount": "14,000+ members",
+    "description": "High-efficiency protobuf serialization, bi-directional streaming, and inter-service latency reduction.",
+    "joinUrl": "https://www.reddit.com/r/grpc/",
+    "tags": [
+      "grpc",
+      "protobuf",
+      "networking",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "go-microservices-distributed-architecture-hub-reddit-7",
     "title": "r/apachekafka Event Streaming",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -643,24 +662,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "go-microservices-distributed-architecture-hub-reddit-8",
-    "title": "r/grpc RPC Protocols",
-    "platform": "Reddit",
-    "category": "gRPC & Protocol Buffers",
-    "memberCount": "14,000+ members",
-    "description": "High-efficiency protobuf serialization, bi-directional streaming, and inter-service latency reduction.",
-    "joinUrl": "https://www.reddit.com/r/grpc/",
-    "tags": [
-      "grpc",
-      "protobuf",
-      "networking",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "go-microservices-distributed-architecture-hub-reddit-9",

@@ -1,5 +1,24 @@
 [
   {
+    "id": "go-microservices-distributed-architecture-hub-reddit-9",
+    "title": "r/backend Systems Engineering",
+    "platform": "Reddit",
+    "category": "Backend Engineering",
+    "memberCount": "110,000+ members",
+    "description": "Database connection pooling, caching strategies with Redis, and RESTful API contract design.",
+    "joinUrl": "https://www.reddit.com/r/backend/",
+    "tags": [
+      "backend",
+      "databases",
+      "apis",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "go-microservices-distributed-architecture-hub-reddit-8",
     "title": "r/grpc RPC Protocols",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -662,24 +681,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-13"
-  },
-  {
-    "id": "go-microservices-distributed-architecture-hub-reddit-9",
-    "title": "r/backend Systems Engineering",
-    "platform": "Reddit",
-    "category": "Backend Engineering",
-    "memberCount": "110,000+ members",
-    "description": "Database connection pooling, caching strategies with Redis, and RESTful API contract design.",
-    "joinUrl": "https://www.reddit.com/r/backend/",
-    "tags": [
-      "backend",
-      "databases",
-      "apis",
-      "reddit"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "go-microservices-distributed-architecture-hub-reddit-10",
